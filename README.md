@@ -26,8 +26,8 @@ Welcome to the **BO2-100ae Remaster Mod**, a fan-made project designed to breath
 ---
 
 ## 🛠️ Credits
-BO2-Reimagined: https://github.com/Jbleezy/BO2-Reimagined
-BO2-Solo-EE-Mod: https://github.com/yaboi-zombies/BO2-Full-Solo-Mods
-Graphical Improvements: https://epicawesomemods.com/mods-c/call-of-duty-black-ops2/photorealistic-call-of-duty-black-ops2-ray-tracing.html?i=2
+-BO2-Reimagined: https://github.com/Jbleezy/BO2-Reimagined
+-BO2-Solo-EE-Mod: https://github.com/yaboi-zombies/BO2-Full-Solo-Mods
+-Graphical Improvements: https://epicawesomemods.com/mods-c/call-of-duty-black-ops2/photorealistic-call-of-duty-black-ops2-ray-tracing.html?i=2
 
 ---
