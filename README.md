@@ -1,4 +1,6 @@
-# BO2-100ae Remaster Mod 🎮
+# This project was a fuckin piece of garbage, broken code and all kinds of stuff i wouldnt let slide now. this is archived as a testament to my stupidity.
+
+BO2-100ae Remaster Mod 🎮
 
 Welcome to the **BO2-100ae Remaster Mod**, a fan-made project designed to breathe new life into the classic **Call of Duty: Black Ops II** experience. This mod remasters the game with enhanced visuals, refined gameplay mechanics, and a host of new features for players to explore.
 
